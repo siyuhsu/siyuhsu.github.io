@@ -59,6 +59,10 @@ Siyu Xu is a final-year M.Phil student at The University of Sydney, supervised b
 - *2020.10* 7th Place - Artificial Intelligence Competition for Video Generation Challenge, ZHEJIANG LAB
 - *2020.05* 9th Place - International Audio and Video Algorithm Optimization Competition, Mongo Media
 
+# 🧑‍🏫 Teaching
+- *2024 S1*, TA of COMP5329, Deep Learning
+- *2023 S2*, TA of COMP5328, Advanced Machine Learning
+
 # 📖 Educations
 - *2023.07 - 2025.06*, M.Phil in Computer Vision, University of Sydney
 - *2022.08 - 2023.06*, Master of Information Technology, University of Sydney
