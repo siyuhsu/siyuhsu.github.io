@@ -31,6 +31,7 @@ Siyu Xu is a final-year M.Phil student at The University of Sydney, supervised b
 [VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175)
 
 **Siyu Xu**, Yunke Wang, Chenghao Xia, Dihao Zhu, Tao Huang, Chang Xu
+
 [Under review]
 
 </div>
