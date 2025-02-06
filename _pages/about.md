@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Siyu Xu is a final-year M.Phil student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on multimodal large models, particularly Vision-Language-Action models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and integrate into everyday life.
+Siyu Xu is a final-year M.Phil student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on large multimodal models (LMMs), particularly Vision-Language-Action models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and everyday life.
 
 
 # 🔥 News
@@ -60,8 +60,8 @@ Siyu Xu is a final-year M.Phil student at The University of Sydney, supervised b
 - *2020.05* 9th Place - International Audio and Video Algorithm Optimization Competition, Mongo Media
 
 # 🧑‍🏫 Teaching
-- *2024 S1*, TA of COMP5329, Deep Learning
-- *2023 S2*, TA of COMP5328, Advanced Machine Learning
+- *2024 S1*, TA of COMP5329, Deep Learning, USYD
+- *2023 S2*, TA of COMP5328, Advanced Machine Learning, USYD
 
 # 📖 Educations
 - *2023.07 - 2025.06*, M.Phil in Computer Vision, University of Sydney
