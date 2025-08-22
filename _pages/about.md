@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on Vision-Language-Action (VLA) models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and everyday life.
+Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on Embodied AI and Vision-Language-Action (VLA) models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and everyday life.
 
 
 # 🔥 News
