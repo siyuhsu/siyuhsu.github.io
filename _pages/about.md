@@ -21,11 +21,12 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 VLA-Cache is accepted to **NeurIPS 2025**.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to **NAACL 2025 Findings**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/vla-cache.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/vla-cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VLA-Cache: Towards Efficient Vision-Language-Action Model via Adaptive Token Caching in Robotic Manipulation](https://arxiv.org/abs/2502.02175)
@@ -34,6 +35,8 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 [[Project]](https://vla-cache.github.io/)
 [[Code]](https://github.com/siyuhsu/vla-cache)
+
+*Conference of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
 </div>
 </div>
