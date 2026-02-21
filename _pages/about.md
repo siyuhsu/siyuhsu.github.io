@@ -21,6 +21,7 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted to **CVPR 2026**.
 - *2025.09*: &nbsp;🎉🎉 VLA-Cache is accepted to **NeurIPS 2025**.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to **NAACL 2025 Findings**.
 
@@ -33,7 +34,7 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 **Siyu Xu**, Zijian Wang, Yunke Wang, Chenghao Xia, Tao Huang, Chang Xu
 
-*ArXiv, 2025*
+*CVPR, 2026*
 
 </div>
 </div>
