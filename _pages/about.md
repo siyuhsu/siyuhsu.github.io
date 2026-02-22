@@ -34,7 +34,7 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 **Siyu Xu**, Zijian Wang, Yunke Wang, Chenghao Xia, Tao Huang, Chang Xu
 
-*In Conference on Computer Vision and Pattern Recognition (CVPR), 2026*
+*Conference of the Computer Vision and Pattern Recognition (CVPR), 2026*
 
 </div>
 </div>
