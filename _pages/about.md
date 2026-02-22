@@ -73,8 +73,9 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 
 # 🎖 Honors and Awards
-- *2026.03* Poster Presenter - NVIDIA GTC Conference, San Jose 2026
-- *2025.10* NeurIPS 2025 Scholar Award - Neural Information Processing Systems Foundation Board 2025
+- *2026.03* Poster Presenter - NVIDIA GTC Conference San Jose
+- *2025.11* Invention Patent (CN116147883B) - China National Intellectual Property Administration
+- *2025.10* NeurIPS 2025 Scholar Award - Neural Information Processing Systems Foundation Board
 - *2022.05* Second Class Prize - ASC22 Student Supercomputer Challenge, Asia Supercomputer Community
 - *2020.10* First Place Award - Pre-training for Video Captioning Challenge, ACM International Conference on Multimedia
 - *2020.10* 7th Place - Artificial Intelligence Competition for Video Generation Challenge, ZHEJIANG LAB
