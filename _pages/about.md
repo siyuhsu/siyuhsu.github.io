@@ -85,6 +85,7 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 - *2023 S2*, Tutor of COMP5328, Advanced Machine Learning, USYD
 
 # 📖 Educations
+- *2025.07 - Present*, Ph.D in Intelligent Robotics, University of Sydney
 - *2023.07 - 2025.06*, M.Phil in Computer Vision, University of Sydney
 - *2022.08 - 2023.06*, Master of Information Technology, University of Sydney
 
