@@ -49,7 +49,7 @@ Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <
 
 [[Project]](https://vla-cache.github.io/)
 [[Code]](https://github.com/siyuhsu/vla-cache)
-[[Nvidia GTC Poster]](../docs/Nvidia_GTC_Poster.pdf)
+[[Nvidia GTC Poster]](/docs/Nvidia_GTC_Poster.pdf)
 
 *Conference of the Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
 
