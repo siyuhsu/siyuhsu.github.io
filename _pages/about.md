@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on Embodied AI and Vision-Language-Action (VLA) models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and everyday life.
+Siyu Xu is a Ph.D. student at The University of Sydney, supervised by A/Prof.  <a href="http://changxu.xyz/">Chang Xu</a>. His research focuses on Embodied AI, specifically Vision-Language-Action (VLA) models and World-Action (WAM) models. His goal is to develop efficient and general-purpose robotic systems capable of understanding and interacting with the world through vision, language, and actions, enabling them to seamlessly assist humans in various real-world tasks and everyday life. 
+
+Recently, he has been particularly interested in improving the out-of-distribution (OOD) **generalization** and **efficiency** of VLA/WAM systems, with the goal of making embodied foundation models more reliable and practical for real-world deployment.
 
 
 # 🔥 News
