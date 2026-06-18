@@ -23,6 +23,7 @@ Recently, he has been particularly interested in improving the out-of-distributi
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted to **ECCV 2026**.
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted to **ICML 2026**.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted to **CVPR 2026**.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted to **ICLR 2026**.
